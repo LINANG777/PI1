@@ -7,7 +7,7 @@ sections:
       text: Top Brass Component Manufacturers in Jamnagar
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Leaders in Precision Engineering
     text: >+
       We have 150+ Customized Products which are made to order as per customer
       specification and the list is growing. Welcoming you to join us in the
