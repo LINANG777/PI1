@@ -7,7 +7,7 @@ sections:
       text: Welcome to Parmanand Industries
       color: text-dark
       type: TitleBlock
-    subtitle: Leaders in Precision Engineering
+    subtitle: Welcome to Parmanand Industries
     text: >+
       We have 150+ Customized Products which are made to order as per customer
       specification and the list is growing. Welcoming you to join us in the
