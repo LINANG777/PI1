@@ -38,7 +38,9 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Top Brass Component Manufacturers in Jamnagar
+      label: >-
+        Top Brass Component Manufacturers in Jamnagar: Leaders in Precision
+        Engineering
       color: text-primary
       type: Badge
     elementId: ''
