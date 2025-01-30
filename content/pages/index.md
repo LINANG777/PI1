@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Leaders in Precision Engineering
+      text: Welcome to Parmanand Industries
       color: text-dark
       type: TitleBlock
     subtitle: Leaders in Precision Engineering
