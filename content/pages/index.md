@@ -60,7 +60,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 34
+      opacity: 7
       url: /images/page-fimage-about-1 (1).jpg
   - type: FeaturedItemsSection
     title:
