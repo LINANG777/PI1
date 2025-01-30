@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome to Parmanand Industries
+      label: Top Brass Component Manufacturers in Jamnagar
       color: text-primary
       type: Badge
     elementId: ''
