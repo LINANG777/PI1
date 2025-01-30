@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Top Brass Component Manufacturers in Jamnagar
+      text: Leaders in Precision Engineering
       color: text-dark
       type: TitleBlock
     subtitle: Leaders in Precision Engineering
