@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: maintain international quality standards
+      text: Maintain International Quality Standards
       color: text-dark
       type: TitleBlock
     subtitle: Welcome to Parmanand Industries
