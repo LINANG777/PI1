@@ -59,7 +59,7 @@ sections:
       altText: altText of the image
       backgroundSize: contain
       backgroundPosition: center
-      backgroundRepeat: repeat
+      backgroundRepeat: no-repeat
       opacity: 100
       url: /images/page-fimage-about-1 (1).jpg
   - type: FeaturedItemsSection
